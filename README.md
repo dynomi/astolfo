@@ -1,5 +1,5 @@
 # astolfo
-my astolfo discord bot
+bot\n
 i shid and fard
 
 # what does it do
