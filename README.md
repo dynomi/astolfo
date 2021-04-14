@@ -1,5 +1,4 @@
 # astolfo
-bot
 i shid and fard
 
 # what does it do
